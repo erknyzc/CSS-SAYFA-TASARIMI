@@ -1,0 +1,16 @@
+
+.ul-ortala {
+    width: 100%;
+    text-align: center;
+  }
+  
+.ul-ortala ul {
+    display: inline-block;
+  }
+.ol-ortala {
+    width: 100%;
+    text-align: center;
+  }
+.ol-ortala ol {
+    display: inline-block;
+}
